@@ -23,7 +23,7 @@ namespace EvenOrOdd
                 {
                     Console.WriteLine("The number you gave to me is Even.");
                 }
-                else if (num % 2 == 1)
+                else
                 {
                     Console.WriteLine("The number you gave to me is Odd.");
                 }
